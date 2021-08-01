@@ -1,0 +1,26 @@
+.home {
+	padding: 56px 20px;
+	min-height: 100%;
+	width: 100%;
+}
+.btn {
+	width: 100px;
+	height: 30px;
+	color: brown;
+}
+.h12{
+	display: flex;
+	justify-content: center;
+	/* flex-direction: column; */
+}
+.text{
+	/* max-width: 50%; */
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+}
+
+.text p{
+	max-width: 50%;
+	align-items: flex-start;
+}
